@@ -1,0 +1,4 @@
+# dataset annotation and splitting for instance segmentation
+https://app.roboflow.com/nadine/nadine-instance-seg/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true
+# dataset annotation and splitting for object detection
+https://app.roboflow.com/nadine/skin-cancer_yolo/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true
